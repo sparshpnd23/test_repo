@@ -1,4 +1,0 @@
-TEST PAGE FROM GIT  
-
-SECOND TEST LINE   
-Third line from redhat
